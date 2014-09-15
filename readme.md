@@ -72,7 +72,7 @@ casperjs series_fetcher.js --web-security=no --series=https://laracasts.com/seri
 ```
 ### 2. Configurate the series_downloader.js file
 
-Just like before.
+Just like [before](#3-configurate-the-lesson_downloaderjs-file).
 
 ### 3. Start the download
 
