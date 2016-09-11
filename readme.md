@@ -24,7 +24,7 @@ Reqirements:
 
 	➜ brew install aria2
 
-## Usage: Downloading Lessens
+## Usage: Downloading Lessons
 
 > Please follow the steps. 
 
